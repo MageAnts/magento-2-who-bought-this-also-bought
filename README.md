@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Who Bought This Also Bought Extension</h2>
-				<p><strong><a href="https://www.mageants.com/who-bought-this-also-bought-for-magento-2.html">Magento 2 Who Bought This Also Bought Extension</a></strong> is useful in increasing sales by giving suggestions to their customers.</p>
+				<p><strong><a href="https://www.mageants.com/who-bought-this-also-bought-for-magento-2.html">Magento 2 Who Bought This Also Bought Extension</a></strong> helps in attracting customers for more products. This is best to use when customers are getting confused and need some suggestions.</p>
 				<p>Online shoppers have experienced multiple suggestions while searching for specific products with the title, 'customers who bought this also bought. This process helps the store owner in boosting sales and income.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
